@@ -1,5 +1,5 @@
 # Write a function factorial(n) that calculates the factorial of a non-negative integer n (n!).
-# SAMYAK JAIN (25BAI10746)
+# MOHIT SINGH RAJPUT (25BCE11409)
 import time
 n=int(input("enter a number:"))
 start= time.time()
