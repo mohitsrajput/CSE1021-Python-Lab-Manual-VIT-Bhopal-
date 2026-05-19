@@ -1,5 +1,5 @@
 # Write a function is_deficient(n) that returns True if the sum of proper divisors of n is less than n.
-# SAMYAK JAIN (25BAI10746)
+# MOHIT SINGH RAJPUT (25BCE11409)
 import time
 def is_deficient(n):
     start_time = time.time()
