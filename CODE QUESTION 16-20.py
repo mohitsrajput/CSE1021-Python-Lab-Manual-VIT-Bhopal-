@@ -1,5 +1,5 @@
 # Write a function aliquot_sum(n) that returns the sum of all proper divisors of n (divisors less than n).
-# SUYASH JAIN (25BCE10875)
+# MOHIT SINGH RAJPUT (25BCE11409)
 import time
 def aliquot_sum(n):
     if n == 1:
