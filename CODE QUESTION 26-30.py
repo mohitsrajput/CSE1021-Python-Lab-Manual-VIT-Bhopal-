@@ -1,5 +1,5 @@
 #Write a function Lucas Numbers Generator lucas_sequence(n) that generates the first n Lucas numbers (similar to Fibonacci but starts with 2,1).
-#SAMYAK JAIN (25BAI10746)
+#MOHIT SINGH RAJPUT (25BCE11409)
 import time
 import sys
 import collections
