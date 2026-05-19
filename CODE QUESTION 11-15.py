@@ -1,5 +1,5 @@
 # Write a function count_distinct_prime_factors(n) that returns how many unique prime factors a number has.
-# SAMYAK JAIN (25BAI10746)
+# MOHIT SINGH RAJPUT (25BCE11409)
 import time
 import sys
 def prime_factors(n):
