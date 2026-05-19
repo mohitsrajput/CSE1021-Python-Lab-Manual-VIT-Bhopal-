@@ -1,5 +1,5 @@
 # Implement the probabilistic Miller-Rabin test is_prime_miller_rabin(n, k) with k rounds.
-# SAMYAK JAIN (25BAI10746)
+# MOHIT SINGH RAJPUT (25BCE11409)
 import time
 import random
 def is_prime_miller_rabin(n, k=20):
