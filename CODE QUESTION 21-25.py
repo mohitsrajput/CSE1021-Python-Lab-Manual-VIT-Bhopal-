@@ -1,5 +1,5 @@
 #Write a function Modular Multiplicative Inverse mod_inverse(a, m) that finds the number x such that (a * x) ≡ 1 mod m.
-# SUYASH JAIN (25BCE10875)
+# MOHIT SINGH RAJPUT (25BCE11409)
 import time
 def mod_inverse(a, m):
     m0 = m
